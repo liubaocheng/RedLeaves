@@ -1,1 +1,5 @@
-{"http":"https://b.com","socket":"wss://a.com"}
+{
+"http": "http://127.0.0.1/raf",
+"socket": "ws://127.0.0.1/ws",
+"link":"http://redleaves.top"
+}
