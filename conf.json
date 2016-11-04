@@ -1,6 +1,6 @@
 {
-"http": "http://127.0.0.1/raf",
-"socket": "ws://127.0.0.1/ws",
+"http": "http://login.redleaves.top/raf",
+"socket": "ws://login.redleaves.top/ws",
 "link":"http://redleaves.top",
 "pay":"http://www.hzllink.cn:8888/raf/pay"
 }
