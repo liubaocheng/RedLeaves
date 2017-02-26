@@ -2,5 +2,6 @@
 "http": "http://login.redleaves.top/raf",
 "socket": "ws://login.redleaves.top/ws",
 "link":"http://redleaves.top/raf/index.html",
-"pay":"http://www.hzllink.cn:8888/raf/pay"
+"pay":"http://www.hzllink.cn:8888/raf/pay",
+"au": {"u":"aa", "p":"aa"}
 }
