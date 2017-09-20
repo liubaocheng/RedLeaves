@@ -1,6 +1,6 @@
 {
-"http": "http://login.redleaves.top/raf",
-"socket": "ws://login.redleaves.top/ws",
+"http": "http://login.redleaves.top:8443/raf",
+"socket": "ws://login.redleaves.top:8443/ws",
 "link":"http://redleaves.top/raf/index.html",
 "pay":"http://www.hzllink.cn:8888/raf/pay",
 "au": {"u":"rd", "p":"rdp"}
