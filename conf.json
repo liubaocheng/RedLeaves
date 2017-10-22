@@ -2,6 +2,6 @@
 "http": "https://lg.ilovedog.red/raf",
 "socket": "wss://lg.ilovedog.red/ws",
 "link":"http://redleaves.top/raf/index.html",
-"pay":"http://www.hzllink.cn:8888/raf/pay",
+"pay":"http://www.hzllink.cn:8889/raf/v2/pay",
 "au": {"u":"rd", "p":"rdp"}
 }
